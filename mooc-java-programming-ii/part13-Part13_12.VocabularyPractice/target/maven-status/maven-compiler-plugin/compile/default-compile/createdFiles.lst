@@ -1,0 +1,6 @@
+application\PractiseApplication.class
+application\PractiseView.class
+application\Viewable.class
+application\Dictionary.class
+application\InputView.class
+application\VocabularyPracticeApplication.class
